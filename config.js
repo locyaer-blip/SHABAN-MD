@@ -23,7 +23,7 @@ ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false",
 // make true to know who dismiss or promoted a member in group  
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://ibb.co/KptT9Czn",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.ibb.co/gbzTd8WF/shaban-md.jpg",
 // add custom menu and mention reply image url   
 BOT_NAME: process.env.BOT_NAME || "LOCY-BOT",
 // add bot namw here for menu
@@ -39,7 +39,7 @@ OWNER_NAME: process.env.OWNER_NAME || "𝗟𝗼𝗰𝘆 𝗕𝗼𝘁",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ Locy Bot*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://ibb.co/KptT9Czn",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/gbzTd8WF/shaban-md.jpg",
 // add img for alive msg 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
