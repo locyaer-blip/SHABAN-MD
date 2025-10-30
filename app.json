@@ -1,8 +1,8 @@
 {
-  "name": "SHABAN-MD",
-  "description": "Javascript WhatsApp bot made by 𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍",
-  "logo": "https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg",
-  "keywords": ["SHABAN-MD"],
+  "name": "Locy-Bot",
+  "description": "Javascript WhatsApp bot made by 𝗟𝗼𝗰𝘆 𝗕𝗼𝘁",
+  "logo": "https://i.ibb.co/gbzTd8WF/shaban-md.jpg",
+  "keywords": ["LOCY-BOT"],
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -15,19 +15,19 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name",
       "required": false,
-      "value": "𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍"
+      "value": "𝗟𝗢𝗖𝗬 𝗕𝗢𝗧"
     }, 
 
     "OWNER_NUMBER": {
       "description": "Put Your WhatsApp Number Link Device",
       "required": false,
-      "value": "923303788282"
+      "value": "919008178849"
     }, 
     
     "MENU_IMAGE_URL": {
       "description": "Add Your Imgae Url Bot Menu",
       "required": true,
-      "value": "https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg"
+      "value": "https://i.ibb.co/gbzTd8WF/shaban-md.jpg"
     }, 
       
     "PREFIX": {
@@ -75,13 +75,13 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SᴇᴇN YᴏᴜʀE SᴛᴀᴛᴜS JᴜsT NᴏW Sʜᴀʙᴀɴ-Mᴅ 𓅓*"
+      "value": "*SᴇᴇN YᴏᴜʀE SᴛᴀᴛᴜS JᴜsT NᴏW Locy-Bot 𓅓*"
     }, 
 
     "BOT_NAME": {
       "description": "Type Here The Bot Name",
       "required": false,
-      "value": "SHABAN-MD"
+      "value": "LOCY-BOT"
     },
     
     "ANTI_LINK": {
@@ -158,7 +158,7 @@
   },
   "buildpacks": [
     {
-      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+      "url": "https://i.ibb.co/gbzTd8WF/shaban-md.jpg"
     }
   ],
   "stack": "heroku-24"
